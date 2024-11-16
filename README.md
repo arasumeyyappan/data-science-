@@ -1,2 +1,2 @@
 # data-science-
-practicing codes will be uploaded here
+practicing codes and projects will be uploaded here
